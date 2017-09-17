@@ -7,7 +7,7 @@ Usage
 
     usage: drumutation [-h] [--key] [--nsub NSUB] [--nbeat NBEAT] [--nbar NBAR] [-s STICKS] [drums [drums ...]]
 
-    Create LilyPond sheet music for drum  permutation.
+    Create LilyPond sheet music for drum permutations.
 
     positional arguments:
       drums                 drum elements to permute
@@ -34,7 +34,7 @@ These exercises can be generated using the following command.
 
 * `--nsub 4`: The subdivision of each beat (pulse) is 4, i.e., 16th notes
 * `--nbeat 2`: Find all two beat permutations (eight 16th notes)
-* `--sticking RL sn sn`: Permutate the snare (sn) with R and L hand sticking combinations
+* `--sticking RL sn sn`: Permute the snare (sn) with R and L hand sticking combinations
 
 There are 256 possible two bar patterns. Drumutation outputs
 [LilyPond][1] sheet music that can be rendered using
@@ -43,7 +43,9 @@ There are 256 possible two bar patterns. Drumutation outputs
 
 The output is the seven page PDF [stick-control.pdf](docs/stick-control.pdf).
 
+## Known Limitation
 
+1. Only the 4/4 time signature is currently implemented.
 
 ## Drum Elements
 
