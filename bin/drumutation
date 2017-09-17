@@ -1,0 +1,87 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""Create LilyPond sheet music for drum permutations."""
+
+import argparse
+import itertools
+
+from drumutation import Beat, Measure, Score
+
+def alphabet():
+    """Drum alphabet according to Benny Greb."""
+
+    measures = permute(["so", "r"], 1, 4, 1)
+    measures += permute(["so", "r"], 1, 3, 1)
+    score = Score(measures)
+    score.ly()
+
+def key():
+    """Drum notation key."""
+
+    symbols = ["sn", "sa", "sg", "ss",
+               "hh", "hhc", "hho", "hhho",
+               "cymr", "s", "rb", "s",
+               "bd", "bd2", "hhp", "hhs",
+               "t1", "s", "t2", "s",
+               "t3", "t4", "t5", "s",
+               "cymc", "cyms", "cymch", "cb"]
+
+    beats = []
+    for k in symbols:
+        if k == "s":
+            beats.append(Beat([k]))
+        else:
+            beats.append(Beat([k], [k]))
+
+    measures = Measure(beats)
+    score = Score(measures)
+    score.ly()
+
+def permute(drums, sticks, nbeat, nsub, nbar):
+    """Determine all permutations of the elements."""
+
+    assert len(drums) == len(sticks), "elements to permute must be equal"
+
+    N = 4*nsub*nbar  # assume 4/4 time
+    n = nbeat*nsub
+    assert (N / n).is_integer(), "nbeat,nsub do not evenly divide measure"
+    m = int(N / n)
+
+    mutations = itertools.product(drums, repeat=n)
+    stickings = itertools.product(sticks, repeat=n)
+    print("% number of permutations =", len(drums)**n)
+
+    measures = []
+    for p, s in zip(mutations, stickings):
+        beats = []
+        for k in range(nbeat):
+            i = k*nsub
+            beat = Beat(p[i:i+nsub], s[i:i+nsub])
+            beats.append(beat)
+        measures.append(Measure(beats*m))
+
+    return measures
+
+if __name__ == "__main__":
+    p = argparse.ArgumentParser(prog="drumutation", description=__doc__)
+    p.add_argument("--key", dest="key", action="store_true", default=False,
+                   help="drum notation key")
+    p.add_argument("--nsub", dest="nsub", type=int, default=4,
+                   help="number of subdivisions")
+    p.add_argument("--nbeat", dest="nbeat", type=int, default=1,
+                   help="number of beats")
+    p.add_argument("--nbar", dest="nbar", type=int, default=1,
+                   help="number of bars (measures)")
+    p.add_argument("-s", "--sticking", dest="sticks", type=list,
+                   help="drum sticking elements to permute")
+    p.add_argument(dest="drums", nargs="*", default=None,
+                   help="drum elements to permute")
+    args = p.parse_args()
+
+    if args.key:
+        key()
+    else:
+        sticks = args.sticks if args.sticks else [None for x in args.drums]
+        measures = permute(args.drums, sticks, args.nbeat, args.nsub, args.nbar)
+        score = Score(measures)
+        score.ly()

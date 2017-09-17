@@ -1,0 +1,280 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" width="175.00mm" height="26.65mm" viewBox="8.5358 -0.0000 99.5846 15.1674">
+<line transform="translate(8.5358, 12.9224)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="-0.0000" x2="99.5346" y2="-0.0000"/>
+<line transform="translate(8.5358, 11.9224)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="-0.0000" x2="99.5346" y2="-0.0000"/>
+<line transform="translate(8.5358, 10.9224)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="-0.0000" x2="99.5346" y2="-0.0000"/>
+<line transform="translate(8.5358, 9.9224)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="-0.0000" x2="99.5346" y2="-0.0000"/>
+<line transform="translate(8.5358, 8.9224)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="-0.0000" x2="99.5346" y2="-0.0000"/>
+<rect transform="translate(93.2254, 10.9224)" x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+<rect transform="translate(67.8277, 10.9224)" x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+<rect transform="translate(41.6492, 10.9224)" x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+<rect transform="translate(28.6022, 10.9224)" x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+<rect transform="translate(107.9305, 10.9224)" x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+<rect transform="translate(54.5664, 10.9224)" x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+<rect transform="translate(80.5816, 10.9224)" x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+<rect transform="translate(0.0000, 7.9224)" x="100.6254" y="-0.1000" width="1.9500" height="0.2000" ry="0.1000" fill="currentColor"/>
+<rect transform="translate(0.0000, 7.9224)" x="97.1205" y="-0.1000" width="2.5730" height="0.2000" ry="0.1000" fill="currentColor"/>
+<rect transform="translate(0.0000, 7.9224)" x="93.9248" y="-0.1000" width="2.3265" height="0.2000" ry="0.1000" fill="currentColor"/>
+<rect transform="translate(0.0000, 7.9224)" x="48.2664" y="-0.1000" width="2.0741" height="0.2000" ry="0.1000" fill="currentColor"/>
+<rect transform="translate(0.0000, 7.9224)" x="42.4103" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/kris/drums/drumutation/key.ly:44:5:6">
+<text transform="translate(68.9148, 6.0949)" font-family="serif" font-size="2.2001" text-anchor="start" fill="currentColor">
+<tspan>
+t1</tspan>
+</text>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kris/drums/drumutation/key.ly:44:0:1">
+<path transform="translate(68.9148, 9.4224) scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
+</a>
+<rect transform="translate(70.1540, 10.9224)" x="-0.0650" y="-4.3333" width="0.1300" height="2.6472" ry="0.0400" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/kris/drums/drumutation/key.ly:46:5:6">
+<text transform="translate(74.5406, 7.4282)" font-family="serif" font-size="2.2001" text-anchor="start" fill="currentColor">
+<tspan>
+t2</tspan>
+</text>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kris/drums/drumutation/key.ly:46:0:1">
+<path transform="translate(74.5406, 11.4224) scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
+</a>
+<rect transform="translate(75.7798, 10.9224)" x="-0.0650" y="-3.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/kris/drums/drumutation/key.ly:48:6:7">
+<text transform="translate(81.6687, 6.4282)" font-family="serif" font-size="2.2001" text-anchor="start" fill="currentColor">
+<tspan>
+t3</tspan>
+</text>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kris/drums/drumutation/key.ly:48:0:1">
+<path transform="translate(81.6687, 9.9224) scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
+</a>
+<rect transform="translate(82.9079, 10.9224)" x="-0.0650" y="-4.0000" width="0.1300" height="2.8139" ry="0.0400" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/kris/drums/drumutation/key.ly:41:6:7">
+<text transform="translate(58.6435, 5.8014)" font-family="serif" font-size="2.2001" text-anchor="start" fill="currentColor">
+<tspan>
+bd2</tspan>
+</text>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kris/drums/drumutation/key.ly:41:0:1">
+<path transform="translate(58.6435, 12.9224) scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
+</a>
+<rect transform="translate(59.8827, 10.9224)" x="-0.0650" y="-1.5000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/kris/drums/drumutation/key.ly:42:4:5">
+<text transform="translate(61.6335, 7.9685)" font-family="serif" font-size="2.2001" text-anchor="start" fill="currentColor">
+<tspan>
+hhp</tspan>
+</text>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kris/drums/drumutation/key.ly:42:0:1">
+<path transform="translate(61.6335, 13.4224) scale(0.0040, -0.0040)" d="M163 36l119 97c3 2 6 3 9 3s7 -1 10 -3l20 -16c3 -3 5 -8 5 -12s-2 -9 -5 -12l-115 -93l115 -93c3 -3 5 -8 5 -12s-2 -9 -5 -12l-20 -16c-3 -2 -7 -3 -10 -3s-6 1 -9 3l-119 97l-119 -97c-3 -2 -6 -3 -9 -3s-7 1 -10 3l-20 16c-3 3 -5 8 -5 12s2 9 5 12l115 93l-115 93
+c-3 3 -5 8 -5 12s2 9 5 12l20 16c3 2 7 3 10 3s6 -1 9 -3z" fill="currentColor"/>
+</a>
+<rect transform="translate(62.8727, 10.9224)" x="-0.0650" y="-1.0000" width="0.1300" height="3.0702" ry="0.0400" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/kris/drums/drumutation/key.ly:43:10:11">
+<text transform="translate(64.6235, 4.1268)" font-family="serif" font-size="2.2001" text-anchor="start" fill="currentColor">
+<tspan>
+hhs</tspan>
+</text>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kris/drums/drumutation/key.ly:43:4:5">
+<path transform="translate(65.2756, 14.6674) scale(0.0040, -0.0040)" d="M100 0c0 -65 -40 -125 -100 -125s-100 60 -100 125s40 125 100 125s100 -60 100 -125zM57 0c0 47 -16 95 -57 95s-57 -48 -57 -95s16 -95 57 -95s57 48 57 95z" fill="currentColor"/>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kris/drums/drumutation/key.ly:43:0:1">
+<path transform="translate(64.6235, 13.4224) scale(0.0040, -0.0040)" d="M163 36l119 97c3 2 6 3 9 3s7 -1 10 -3l20 -16c3 -3 5 -8 5 -12s-2 -9 -5 -12l-115 -93l115 -93c3 -3 5 -8 5 -12s-2 -9 -5 -12l-20 -16c-3 -2 -7 -3 -10 -3s-6 1 -9 3l-119 97l-119 -97c-3 -2 -6 -3 -9 -3s-7 1 -10 3l-20 16c-3 3 -5 8 -5 12s2 9 5 12l115 93l-115 93
+c-3 3 -5 8 -5 12s2 9 5 12l20 16c3 2 7 3 10 3s6 -1 9 -3z" fill="currentColor"/>
+</a>
+<rect transform="translate(65.8627, 10.9224)" x="-0.0650" y="-1.0000" width="0.1300" height="3.0702" ry="0.0400" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/kris/drums/drumutation/key.ly:53:5:6">
+<text transform="translate(97.5493, 1.8734)" font-family="serif" font-size="2.2001" text-anchor="start" fill="currentColor">
+<tspan>
+cyms</tspan>
+</text>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kris/drums/drumutation/key.ly:53:0:1">
+<path transform="translate(97.5493, 7.9224) scale(0.0040, -0.0040)" d="M10 -263c-8 0 -13 9 -9 16l309 505c2 3 6 5 9 5h100c8 0 12 -9 8 -16l-308 -505c-2 -3 -6 -5 -9 -5h-100z" fill="currentColor"/>
+</a>
+<rect transform="translate(99.1996, 10.9224)" x="-0.0650" y="-5.5000" width="0.1300" height="1.4500" ry="0.0400" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/kris/drums/drumutation/key.ly:54:6:7">
+<text transform="translate(100.9504, 4.4844)" font-family="serif" font-size="2.2001" text-anchor="start" fill="currentColor">
+<tspan>
+cymch</tspan>
+</text>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kris/drums/drumutation/key.ly:54:0:1">
+<path transform="translate(100.9504, 7.9224) scale(0.0040, -0.0040)" d="M87 51c-2 -2 -3 -4 -3 -6s1 -5 3 -7l109 -120c2 -2 4 -4 7 -4s5 2 7 4l28 31c2 2 3 4 3 6s-1 5 -3 7l-109 120c-2 2 -4 4 -7 4s-5 -2 -7 -4zM0 0c0 3 1 5 3 7c56 52 106 107 152 168c2 2 5 4 8 4s5 -2 7 -4c46 -61 96 -116 152 -168c2 -2 3 -4 3 -7s-1 -5 -3 -7
+c-56 -52 -106 -107 -152 -168c-2 -2 -4 -4 -7 -4s-6 2 -8 4c-46 61 -96 116 -152 168c-2 2 -3 4 -3 7z" fill="currentColor"/>
+</a>
+<rect transform="translate(102.1854, 10.9224)" x="-0.0650" y="-5.5000" width="0.1300" height="2.5000" ry="0.0400" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/kris/drums/drumutation/key.ly:55:3:4">
+<text transform="translate(104.2607, 2.3172)" font-family="serif" font-size="2.2001" text-anchor="start" fill="currentColor">
+<tspan>
+cb</tspan>
+</text>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kris/drums/drumutation/key.ly:55:0:1">
+<path transform="translate(104.2607, 9.4224) scale(0.0040, -0.0040)" d="M55 -171c0 26 6 53 6 79c0 89 -21 155 -57 218c-14 24 15 50 37 32c69 -57 164 -101 280 -101c13 0 25 -12 25 -25c0 -11 -8 -20 -18 -24c-97 -36 -176 -106 -226 -191c-5 -8 -13 -13 -22 -13c-14 0 -25 11 -25 25z" fill="currentColor"/>
+</a>
+<rect transform="translate(105.5785, 10.9224)" x="-0.0650" y="-4.3333" width="0.1300" height="2.7071" ry="0.0400" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/kris/drums/drumutation/key.ly:50:0:1">
+<path transform="translate(87.1487, 11.9224) scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kris/drums/drumutation/key.ly:49:6:7">
+<text transform="translate(84.4087, 7.0949)" font-family="serif" font-size="2.2001" text-anchor="start" fill="currentColor">
+<tspan>
+t4</tspan>
+</text>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kris/drums/drumutation/key.ly:49:0:1">
+<path transform="translate(84.4087, 10.9224) scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
+</a>
+<rect transform="translate(85.6479, 10.9224)" x="-0.0650" y="-3.3333" width="0.1300" height="3.1472" ry="0.0400" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/kris/drums/drumutation/key.ly:50:6:7">
+<text transform="translate(87.1487, 7.9282)" font-family="serif" font-size="2.2001" text-anchor="start" fill="currentColor">
+<tspan>
+t5</tspan>
+</text>
+</a>
+<rect transform="translate(88.3879, 10.9224)" x="-0.0650" y="-2.5000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/kris/drums/drumutation/key.ly:52:5:6">
+<text transform="translate(94.3126, 4.4844)" font-family="serif" font-size="2.2001" text-anchor="start" fill="currentColor">
+<tspan>
+cymc</tspan>
+</text>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kris/drums/drumutation/key.ly:52:0:1">
+<path transform="translate(94.3126, 7.9224) scale(0.0040, -0.0040)" d="M194 171c100 0 194 -73 194 -171s-94 -171 -194 -171s-194 73 -194 171s94 171 194 171zM166 0l-96 84c-22 -24 -30 -73 -34 -84c0 -30 12 -60 34 -84zM194 24l95 83c-27 18 -60 28 -95 28s-69 -10 -96 -28zM194 -24l-96 -83c27 -18 61 -28 96 -28s68 10 95 28zM221 0
+l97 -84c22 24 33 54 33 84s-11 60 -33 84z" fill="currentColor"/>
+</a>
+<rect transform="translate(95.7985, 10.9224)" x="-0.0650" y="-5.5000" width="0.1300" height="2.5000" ry="0.0400" fill="currentColor"/>
+<path transform="translate(22.3458, 10.4224) scale(0.0020, -0.0020)" d="M-94 0c0 -84 12 -170 60 -239c3 -4 3 -7 3 -11c0 -10 -9 -19 -19 -19c-5 0 -12 2 -16 8c-54 77 -90 167 -90 261s36 184 90 261c4 6 11 8 16 8c10 0 19 -9 19 -19c0 -4 0 -7 -3 -11c-48 -69 -60 -155 -60 -239z" fill="currentColor"/>
+<path transform="translate(24.0500, 10.4224) scale(0.0020, -0.0020)" d="M94 0c0 84 -12 170 -60 239c-3 4 -3 7 -3 11c0 10 9 19 19 19c5 0 12 -2 16 -8c54 -77 90 -167 90 -261s-36 -184 -90 -261c-4 -6 -11 -8 -16 -8c-10 0 -19 9 -19 19c0 4 0 7 3 11c48 69 60 155 60 239z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/kris/drums/drumutation/key.ly:31:3:4">
+<text transform="translate(25.5358, 6.7616)" font-family="serif" font-size="2.2001" text-anchor="start" fill="currentColor">
+<tspan>
+ss</tspan>
+</text>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kris/drums/drumutation/key.ly:31:0:1">
+<path transform="translate(25.5358, 10.4224) scale(0.0040, -0.0040)" d="M163 36l119 97c3 2 6 3 9 3s7 -1 10 -3l20 -16c3 -3 5 -8 5 -12s-2 -9 -5 -12l-115 -93l115 -93c3 -3 5 -8 5 -12s-2 -9 -5 -12l-20 -16c-3 -2 -7 -3 -10 -3s-6 1 -9 3l-119 97l-119 -97c-3 -2 -6 -3 -9 -3s-7 1 -10 3l-20 16c-3 3 -5 8 -5 12s2 9 5 12l115 93l-115 93
+c-3 3 -5 8 -5 12s2 9 5 12l20 16c3 2 7 3 10 3s6 -1 9 -3z" fill="currentColor"/>
+</a>
+<rect transform="translate(26.7750, 10.9224)" x="-0.0650" y="-3.6667" width="0.1300" height="2.7369" ry="0.0400" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/kris/drums/drumutation/key.ly:32:3:4">
+<text transform="translate(29.6893, 4.7007)" font-family="serif" font-size="2.2001" text-anchor="start" fill="currentColor">
+<tspan>
+hh</tspan>
+</text>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kris/drums/drumutation/key.ly:32:0:1">
+<path transform="translate(29.6893, 8.4224) scale(0.0040, -0.0040)" d="M163 36l119 97c3 2 6 3 9 3s7 -1 10 -3l20 -16c3 -3 5 -8 5 -12s-2 -9 -5 -12l-115 -93l115 -93c3 -3 5 -8 5 -12s-2 -9 -5 -12l-20 -16c-3 -2 -7 -3 -10 -3s-6 1 -9 3l-119 97l-119 -97c-3 -2 -6 -3 -9 -3s-7 1 -10 3l-20 16c-3 3 -5 8 -5 12s2 9 5 12l115 93l-115 93
+c-3 3 -5 8 -5 12s2 9 5 12l20 16c3 2 7 3 10 3s6 -1 9 -3z" fill="currentColor"/>
+</a>
+<rect transform="translate(30.9285, 10.9224)" x="-0.0650" y="-5.0000" width="0.1300" height="2.0702" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(23.7850, 10.9224)" x="-0.0650" y="-3.6667" width="0.1300" height="2.9806" ry="0.0400" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/kris/drums/drumutation/key.ly:33:4:5">
+<text transform="translate(32.6793, 1.6730)" font-family="serif" font-size="2.2001" text-anchor="start" fill="currentColor">
+<tspan>
+hhc</tspan>
+</text>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kris/drums/drumutation/key.ly:33:0:1">
+<path transform="translate(32.6793, 8.4224) scale(0.0040, -0.0040)" d="M163 36l119 97c3 2 6 3 9 3s7 -1 10 -3l20 -16c3 -3 5 -8 5 -12s-2 -9 -5 -12l-115 -93l115 -93c3 -3 5 -8 5 -12s-2 -9 -5 -12l-20 -16c-3 -2 -7 -3 -10 -3s-6 1 -9 3l-119 97l-119 -97c-3 -2 -6 -3 -9 -3s-7 1 -10 3l-20 16c-3 3 -5 8 -5 12s2 9 5 12l115 93l-115 93
+c-3 3 -5 8 -5 12s2 9 5 12l20 16c3 2 7 3 10 3s6 -1 9 -3z" fill="currentColor"/>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kris/drums/drumutation/key.ly:33:0:1">
+<path transform="translate(33.3314, 5.1704) scale(0.0040, -0.0040)" d="M0 -138c-14 0 -25 12 -25 26v87h-87c-14 0 -26 11 -26 25s12 25 26 25h87v87c0 14 11 26 25 26s25 -12 25 -26v-87h87c14 0 26 -11 26 -25s-12 -25 -26 -25h-87v-87c0 -14 -11 -26 -25 -26z" fill="currentColor"/>
+</a>
+<rect transform="translate(33.9185, 10.9224)" x="-0.0650" y="-5.0000" width="0.1300" height="2.0702" ry="0.0400" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/kris/drums/drumutation/key.ly:28:3:4">
+<text transform="translate(16.5658, 6.7616)" font-family="serif" font-size="2.2001" text-anchor="start" fill="currentColor">
+<tspan>
+sn</tspan>
+</text>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kris/drums/drumutation/key.ly:28:0:1">
+<path transform="translate(16.5658, 10.4224) scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
+</a>
+<path transform="translate(8.6658, 10.9224) scale(0.0040, -0.0040)" d="M490 -250h-92c-6 0 -10 4 -10 10v480c0 6 4 10 10 10h92c6 0 10 -4 10 -10v-480c0 -6 -4 -10 -10 -10zM270 -250h-93c-6 0 -10 4 -10 10v480c0 6 4 10 10 10h93c6 0 10 -4 10 -10v-480c0 -6 -4 -10 -10 -10z" fill="currentColor"/>
+<path transform="translate(12.8658, 10.9224) scale(0.0040, -0.0040)" d="M359 27c-49 0 -75 42 -75 75c0 38 27 77 72 77c4 0 9 0 14 -1c-28 37 -72 59 -120 59c-106 0 -113 -73 -113 -186v-51v-51c0 -113 7 -187 113 -187c80 0 139 70 158 151c2 7 7 10 12 10c6 0 13 -4 13 -12c0 -94 -105 -174 -183 -174c-68 0 -137 21 -184 70
+c-49 51 -66 122 -66 193s17 142 66 193c47 49 116 69 184 69c87 0 160 -63 175 -149c1 -5 1 -10 1 -14c0 -40 -30 -72 -67 -72z" fill="currentColor"/>
+<rect transform="translate(17.8050, 10.9224)" x="-0.0650" y="-3.6667" width="0.1300" height="2.9806" ry="0.0400" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/kris/drums/drumutation/key.ly:29:5:6">
+<text transform="translate(19.5558, 6.7616)" font-family="serif" font-size="2.2001" text-anchor="start" fill="currentColor">
+<tspan>
+sa</tspan>
+</text>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kris/drums/drumutation/key.ly:29:3:4">
+<path transform="translate(20.2079, 13.7224) scale(0.0040, -0.0040)" d="M-211 88c-8 2 -14 9 -14 18c0 11 10 21 23 18l408 -105c13 0 19 -6 19 -19s-6 -19 -19 -19l-408 -105c-13 -3 -23 7 -23 18c0 9 6 16 14 18l251 65l140 23l-140 23z" fill="currentColor"/>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kris/drums/drumutation/key.ly:29:0:1">
+<path transform="translate(19.5558, 10.4224) scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
+</a>
+<rect transform="translate(20.7950, 10.9224)" x="-0.0650" y="-3.6667" width="0.1300" height="2.9806" ry="0.0400" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/kris/drums/drumutation/key.ly:30:17:18">
+<text transform="translate(22.5458, 6.3177)" font-family="serif" font-size="2.2001" text-anchor="start" fill="currentColor">
+<tspan>
+sg</tspan>
+</text>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kris/drums/drumutation/key.ly:30:0:1">
+<path transform="translate(22.5458, 10.4224) scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kris/drums/drumutation/key.ly:36:0:1">
+<path transform="translate(42.7364, 7.9224) scale(0.0040, -0.0040)" d="M163 36l119 97c3 2 6 3 9 3s7 -1 10 -3l20 -16c3 -3 5 -8 5 -12s-2 -9 -5 -12l-115 -93l115 -93c3 -3 5 -8 5 -12s-2 -9 -5 -12l-20 -16c-3 -2 -7 -3 -10 -3s-6 1 -9 3l-119 97l-119 -97c-3 -2 -6 -3 -9 -3s-7 1 -10 3l-20 16c-3 3 -5 8 -5 12s2 9 5 12l115 93l-115 93
+c-3 3 -5 8 -5 12s2 9 5 12l20 16c3 2 7 3 10 3s6 -1 9 -3z" fill="currentColor"/>
+</a>
+<rect transform="translate(43.9756, 10.9224)" x="-0.0650" y="-5.5000" width="0.1300" height="2.0702" ry="0.0400" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/kris/drums/drumutation/key.ly:36:5:6">
+<text transform="translate(42.7364, 4.4844)" font-family="serif" font-size="2.2001" text-anchor="start" fill="currentColor">
+<tspan>
+cymr</tspan>
+</text>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kris/drums/drumutation/key.ly:38:3:4">
+<text transform="translate(48.6121, 2.9056)" font-family="serif" font-size="2.2001" text-anchor="start" fill="currentColor">
+<tspan>
+rb</tspan>
+</text>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kris/drums/drumutation/key.ly:38:0:1">
+<path transform="translate(48.6121, 7.9224) scale(0.0040, -0.0040)" d="M55 -171c0 26 6 53 6 79c0 89 -21 155 -57 218c-14 24 15 50 37 32c69 -57 164 -101 280 -101c13 0 25 -12 25 -25c0 -11 -8 -20 -18 -24c-97 -36 -176 -106 -226 -191c-5 -8 -13 -13 -22 -13c-14 0 -25 11 -25 25z" fill="currentColor"/>
+</a>
+<rect transform="translate(49.9299, 10.9224)" x="-0.0650" y="-5.5000" width="0.1300" height="2.3738" ry="0.0400" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/kris/drums/drumutation/key.ly:40:3:4">
+<text transform="translate(55.6535, 8.3724)" font-family="serif" font-size="2.2001" text-anchor="start" fill="currentColor">
+<tspan>
+bd</tspan>
+</text>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kris/drums/drumutation/key.ly:40:0:1">
+<path transform="translate(55.6535, 12.4224) scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
+</a>
+<rect transform="translate(56.8927, 10.9224)" x="-0.0650" y="-2.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/kris/drums/drumutation/key.ly:35:0:1">
+<path transform="translate(38.6593, 8.4224) scale(0.0040, -0.0040)" d="M163 36l119 97c3 2 6 3 9 3s7 -1 10 -3l20 -16c3 -3 5 -8 5 -12s-2 -9 -5 -12l-115 -93l115 -93c3 -3 5 -8 5 -12s-2 -9 -5 -12l-20 -16c-3 -2 -7 -3 -10 -3s-6 1 -9 3l-119 97l-119 -97c-3 -2 -6 -3 -9 -3s-7 1 -10 3l-20 16c-3 3 -5 8 -5 12s2 9 5 12l115 93l-115 93
+c-3 3 -5 8 -5 12s2 9 5 12l20 16c3 2 7 3 10 3s6 -1 9 -3z" fill="currentColor"/>
+</a>
+<rect transform="translate(36.9085, 10.9224)" x="-0.0650" y="-5.0000" width="0.1300" height="2.0702" ry="0.0400" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/kris/drums/drumutation/key.ly:34:0:1">
+<path transform="translate(36.3214, 5.2224) scale(0.0040, -0.0040)" d="M100 0c0 -65 -40 -125 -100 -125s-100 60 -100 125s40 125 100 125s100 -60 100 -125zM57 0c0 47 -16 95 -57 95s-57 -48 -57 -95s16 -95 57 -95s57 48 57 95z" fill="currentColor"/>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kris/drums/drumutation/key.ly:34:0:1">
+<path transform="translate(35.6693, 8.4224) scale(0.0040, -0.0040)" d="M163 36l119 97c3 2 6 3 9 3s7 -1 10 -3l20 -16c3 -3 5 -8 5 -12s-2 -9 -5 -12l-115 -93l115 -93c3 -3 5 -8 5 -12s-2 -9 -5 -12l-20 -16c-3 -2 -7 -3 -10 -3s-6 1 -9 3l-119 97l-119 -97c-3 -2 -6 -3 -9 -3s-7 1 -10 3l-20 16c-3 3 -5 8 -5 12s2 9 5 12l115 93l-115 93
+c-3 3 -5 8 -5 12s2 9 5 12l20 16c3 2 7 3 10 3s6 -1 9 -3z" fill="currentColor"/>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kris/drums/drumutation/key.ly:34:4:5">
+<text transform="translate(35.6693, 3.8402)" font-family="serif" font-size="2.2001" text-anchor="start" fill="currentColor">
+<tspan>
+hho</tspan>
+</text>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kris/drums/drumutation/key.ly:35:5:6">
+<text transform="translate(38.6593, 1.6730)" font-family="serif" font-size="2.2001" text-anchor="start" fill="currentColor">
+<tspan>
+hhho</tspan>
+</text>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kris/drums/drumutation/key.ly:35:0:1">
+<path transform="translate(39.3114, 5.0284) scale(0.0040, -0.0040)" d="M62 99l53 65c11 13 31 -3 20 -16l-56 -70c14 -22 21 -50 21 -78c0 -65 -40 -125 -100 -125c-25 0 -46 10 -62 26l-53 -65c-11 -13 -31 3 -20 16l56 70c-14 22 -21 50 -21 78c0 65 40 125 100 125c25 0 46 -10 62 -26zM-52 -44l92 115c-9 14 -22 24 -40 24
+c-41 0 -57 -48 -57 -95c0 -15 1 -30 5 -44zM-40 -71c9 -14 22 -24 40 -24c41 0 57 48 57 95c0 15 -1 30 -5 44z" fill="currentColor"/>
+</a>
+<rect transform="translate(39.8985, 10.9224)" x="-0.0650" y="-5.0000" width="0.1300" height="2.0702" ry="0.0400" fill="currentColor"/>
+</svg>
